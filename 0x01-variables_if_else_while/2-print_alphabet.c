@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - The alphabet game
+ * main - the alphabet game
  *
  * Return: Always 0 (success)
  */
