@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- * main - this line uses puts
- * 
- * Retrun: 0
+/**
+ * main - First print job to using puts
+ *
+ * Return: 0
 */
 int main(void)
 {
