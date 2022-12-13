@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - initializing stage
+ * main -initializing stage
  *
  * return: Always 0 (success)
  */
